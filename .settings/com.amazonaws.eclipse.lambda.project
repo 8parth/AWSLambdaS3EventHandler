@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Thu Feb 04 20:18:47 IST 2016
+lastDeploymentFunctionName=ModifiedET
+lastDeploymentBucketName=videosbuck
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/
